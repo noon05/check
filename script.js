@@ -25,5 +25,5 @@ function updateStatus() {
 updateStatus();
 
 // Пример изменения состояния (можете изменить значение statusValue и снова вызвать updateStatus())
-statusValue = 2; // Устанавливаем состояние "ошибка"
+statusValue = 3; // Устанавливаем состояние "ошибка"
 updateStatus();
